@@ -6,7 +6,7 @@ Projeto de engenharia e análise de dados utilizando o dataset público da **Oli
 
 ## 🛠️ Stack Tecnológica
 
-* **Linguagem:** Python (Pandas, SQLAlchemy)[cite: 1, 2]
+* **Linguagem:** Python (Pandas, SQLAlchemy)
 * **Banco de Dados:** PostgreSQL
 * **Visualização:** Power BI (DAX, Modelagem de Dados, UI/UX)
 * **Controle de Versão:** Git & GitHub
