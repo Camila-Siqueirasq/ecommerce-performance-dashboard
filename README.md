@@ -1,6 +1,6 @@
 # Brazilian E-Commerce Analytics & Operations Dashboard
 
-Projeto de engenharia e análise de dados utilizando o famoso dataset público da **Olist** (E-commerce brasileiro). O objetivo deste projeto é extrair insights estratégicos sobre faturamento, sazonalidade, comportamento de clientes por estado e eficiência logística (frete e prazos de entrega).
+Projeto de engenharia e análise de dados utilizando o dataset público da **Olist** (E-commerce brasileiro). O objetivo deste projeto é extrair insights estratégicos sobre faturamento, sazonalidade, comportamento de clientes por estado e eficiência logística (frete e prazos de entrega).
 
 ---
 
